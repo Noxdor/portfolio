@@ -1,0 +1,29 @@
+$clr-black: #171717;
+$clr-white: #e8e8e8;
+
+$clr-primary-light: #38677a;
+$clr-primary: #274754;
+$clr-primary-dark: #213d48;
+
+$clr-secondary-light: #eb8369;
+$clr-secondary: #e76e50;
+$clr-secondary-dark: #e24e29;
+
+$space-xs: 0.125rem;
+$space-sm: 0.25rem;
+$space-md: 0.5rem;
+$space-lg: 1rem;
+$space-xl: 2rem;
+
+body {
+  --clr-black: #{$clr-black};
+  --clr-white: #{$clr-white};
+
+  --clr-primary-light: #{$clr-primary-light};
+  --clr-primary: #{$clr-primary};
+  --clr-primary-dark: #{$clr-primary-dark};
+
+  --clr-secondary-light: #{$clr-secondary-light};
+  --clr-secondary: #{$clr-secondary};
+  --clr-secondary-dark: #{$clr-secondary-dark};
+}

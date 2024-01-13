@@ -1,0 +1,37 @@
+[
+  {
+    "name": "C++",
+    "logo": "/images/skills/C++.png",
+    "description": ""
+  },
+  {
+    "name": "Docker",
+    "logo": "/images/skills/Docker.png",
+    "description": ""
+  },
+  {
+    "name": "Nginx",
+    "logo": "/images/skills/Nginx.png",
+    "description": ""
+  },
+  {
+    "name": "Rust",
+    "logo": "/images/skills/Rust.png",
+    "description": ""
+  },
+  {
+    "name": "TypeScript",
+    "logo": "/images/skills/TypeScript.png",
+    "description": ""
+  },
+  {
+    "name": "Vue",
+    "logo": "/images/skills/Vue.png",
+    "description": ""
+  },
+  {
+    "name": "Nuxt",
+    "logo": "/images/skills/Nuxt.png",
+    "description": ""
+  }
+]
